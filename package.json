@@ -31,7 +31,7 @@
     "opencollective": "^1.0.3",
     "opencollective-postinstall": "^2.0.2",
     "prop-types": "^15.5.10",
-    "react-native-permissions": "^2.0.2"
+    "react-native-permissions": "https://github.com/VooduVibe-Dev/react-native-permissions.git"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
